@@ -1,4 +1,4 @@
-const nota = 15; 
+const nota = 7; 
 let conceito; 
 
 if (nota <= 10 && nota >=9) { 

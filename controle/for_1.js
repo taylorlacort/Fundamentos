@@ -1,0 +1,7 @@
+for (let controle = 1; controle <= 10; controle++){
+    console.log (controle)
+
+}
+
+console.log('fim!');
+// Declaração; expressão ; incremento -> Qtde determinada!
