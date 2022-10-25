@@ -14,6 +14,6 @@ else if (operacao === '-') {
     resultado = a / b
 } else if (operacao === '%'){
     resultado = a % b
-} else {"Operador digitado é indevido "}
+} else { console.log("Operador digitado não corresponde ")}
 
 console.log(resultado)
