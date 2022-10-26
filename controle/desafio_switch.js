@@ -30,9 +30,8 @@ switch (Math.ceil(nota)) {
     case 1:
         console.log("E")
         break;
-    case 0:
-        console.log("F")
+    case 0: console.log("F")
         break;
-        default:
-            console.log("Conceito inválido")
+    default:
+        console.log("Conceito inválido")
 }

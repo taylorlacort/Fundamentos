@@ -8,6 +8,7 @@ if (nota >= 8) {
 if (nota === 7) {
     console.log("Você passou")
     console.log("Parabéns ")
+    sw
 }
 
 if (nota < 7) {
