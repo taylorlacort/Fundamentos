@@ -1,6 +1,6 @@
 const a = 7
 const b = 19
-const operacao = ""
+const operacao = "+"
 
 let resultado;
 
