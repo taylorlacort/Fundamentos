@@ -1,6 +1,6 @@
-const nota1 = 2;    //
-const nota2 = 10;    //    Notas do aluno.
-const nota3 = 6;    //
+const nota1 = 7.8;    //
+const nota2 = 3.1;    //    Notas do aluno.
+const nota3 = 6.7;    //
  
 function minimo(n1, n2) {
     if (n1 <= n2) {
@@ -28,13 +28,13 @@ function notaFinal(nota) {
         return null;
  
     } else if (mediaFinal >= 7) {
-        return `${mediaFinal}   =>   O aluno está: Aprovado!`;
+        return mediaFinal + ' =>' + ' O aluno está: Aprovado!';
  
     } else if (mediaFinal >= 4 && mediaFinal < 7) {
-        return `${mediaFinal}   =>  O aluno está: Em recuperação!`;
+        return mediaFinal + ' =>' + ' O aluno está: Em recuperação!';
  
     } else (mediaFinal < 4)
-        return ` ${mediaFinal} => O aluno está: Reprovado!`;
+        return mediaFinal + ' =>' + ' O aluno está: Reprovado!';
 }
  
  
