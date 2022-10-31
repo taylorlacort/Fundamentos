@@ -28,4 +28,4 @@ Exibir_Data2();
 
 
 //finction - primeiro passo é definir qual o nome da funcção exemplo : function somar 
-// Os parametros do parenteses recebem uma função exemplo (a , b) {  dentro das chaves ficam os blocos de código }
+// Os parametros do parenteses recebem uma função exemplo (Num1 , Num2) {  dentro das chaves ficam os blocos de código }
