@@ -17,4 +17,4 @@ function multiplicar(a, b) {
 }
 executar(somar, 10, 20)
 executar(subtrair, 364, 215)
-executar(multiplicar, 12, 12)
+executar(multiplicar, 12, 1 )

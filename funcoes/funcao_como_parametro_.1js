@@ -1,18 +1,18 @@
-function executar(funcao) {
-    if (typeof funcao ==="function"){
-        console.log(funcao());
+function executar(param) {
+    if (typeof param === "function") {
+        console.log(param()); // <--- Parte Central da aula 
     }
 }
 
-    function bomDia() {
-     return 'bom dia';
-    }
+function bomDia() {
+    return 'bom dia';
+}
 
-    executar(3)
-    executar(bomDia);
-    
-    const x = bomDia;
-    const y = bomDia ();
+executar(3)
+executar(bomDia); // <--- Parte Central da aula 
 
-    console.log(x())
-    console.log(y)
+const x = bomDia;
+const y = bomDia();
+
+console.log(x())
+console.log(y)
