@@ -1,6 +1,6 @@
 const a = 3076;
 const b = 2920;
-const operacao = '-'
+const operacao = '*'
 
 const resultado =
   operacao === '+' ? a + b :
