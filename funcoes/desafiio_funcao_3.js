@@ -1,6 +1,6 @@
-const nota1 = 7.8;    //
-const nota2 = 3.1;    //    Notas do aluno.
-const nota3 = 6.7;    //
+const nota1 = 5;    //
+const nota2 = 2;    //    Notas do aluno.
+const nota3 = 0;    //
  
 function minimo(n1, n2) {
     if (n1 <= n2) {
