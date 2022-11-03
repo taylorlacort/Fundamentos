@@ -8,4 +8,4 @@ function FirstFactorial(num) {
     return fac;
   }
    
-         console.log(FirstFactorial(4))  
+         console.log(FirstFactorial(10))  

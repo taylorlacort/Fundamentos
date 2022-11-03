@@ -1,5 +1,5 @@
 function sempreRetornaUm() {
-    return 1000;
+    return 1;
 }
 
 let valor = sempreRetornaUm() + 999;
