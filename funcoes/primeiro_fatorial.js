@@ -1,11 +1,9 @@
-function FirstFactorial(num) { 
-
-    let fac = 1;
-    for (let i = 2; i <= num; i++) {
-      fac *= i;
-    }
-     
-    return fac;
+function primeiroFattorial(numero) {
+  let a = 1;
+  for (let b = 2; b <= numero; b++) {
+    a *= b
   }
-   
-         console.log(FirstFactorial(10))  
+  return a
+}
+
+console.log(primeiroFattorial(4))

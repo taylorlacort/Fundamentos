@@ -16,3 +16,4 @@ const somar10 = somar2(10)
 
 console.log(somar10(5))
 console.log(somar10(15))
+

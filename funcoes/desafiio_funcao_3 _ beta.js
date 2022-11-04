@@ -47,3 +47,4 @@ function notaFinal(nota) {
 }
 
 console.log(notaFinal())
+
