@@ -16,3 +16,9 @@ for (let indice in notas) {
     indices += indice + ' ';
 }
 console.log(indices)
+
+for (let apresenta of notas) {
+    console.log(apresenta)
+}
+
+// 
