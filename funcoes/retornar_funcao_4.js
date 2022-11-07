@@ -4,6 +4,6 @@ function porcentagem68(a) {
     }
 }
 
-const valorPorcentagem = porcentagem68(0.68)
+const valorPorcentagem = porcentagem68(0.9)
 
-console.log(valorPorcentagem(2300))
+console.log(valorPorcentagem(166))
