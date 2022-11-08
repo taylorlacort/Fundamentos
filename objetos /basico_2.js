@@ -1,5 +1,5 @@
 const produto = {
-    nome: 'ipad',
+    nome: 'Ipad',
     preco: 5600,
     desconto: 0.15,
     precoComDesconto: function () {
