@@ -23,4 +23,3 @@ function criarCarro(modelo, portas, aro, tetoSolar) {
 let ferrari = criarCarro('Ferrari', 2, 20, false)
 
 ferrari.temTetoSolar()
-console.log
