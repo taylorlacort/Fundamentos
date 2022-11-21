@@ -1,0 +1,5 @@
+Mais conhecida como inheritance
+
+Pode herdar propriedadese metodos fazendo com que você crie classes com o compotamento semelhante 
+
+Porem para fins distintios

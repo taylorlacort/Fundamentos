@@ -1,0 +1,7 @@
+Conhecido como agregação ou aggregation ou composição (composition)
+
+serve para dividir um objeto grande em objetos menores 
+
+exemplo carro{motor, banco, rodas}
+
+esses objetos compoẽ um objeto maior que seria o carro 

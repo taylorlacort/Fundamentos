@@ -1,0 +1,4 @@
+ A classe seria o molde do objeto 
+ Em outras linguagens só podemos gerar os objetos apartir de uma classe 
+ normalmente um sistema tem menos classes do due objetos
+ então as vezesa usamos uma classe para varios objetos 

@@ -1,0 +1,4 @@
+O encapsualamento serve para definir se os metodos e as propriedades ser publicas, privadas
+ou Protegidas;
+
+em JS não temos essa forma como nativa da linguagem mas, é possivel contornar isso 

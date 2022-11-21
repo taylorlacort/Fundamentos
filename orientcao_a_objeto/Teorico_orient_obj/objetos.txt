@@ -1,0 +1,5 @@
+O que é uma classe?
+o objeto em si é a representação de uma classe onde o objeto em si seria o esqueleto da classe.
+exemplo classe seria o modelo de um carro e objeto seria a marca os faróis, quantodade de portas e etc..
+propriedades representa a caracteriastica do obj exemplo portas = 4 a propriedade seria o valor 4
+os metodos são as acoes exemplo as function
