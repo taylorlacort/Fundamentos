@@ -5,7 +5,13 @@ class Calculator {
         this.reset = 0;
     }
     btnPress() {
-        console.log(this)
+        let input = this.textContent;
+        let upperValue = calc.upperValue.textContent;
+        //verificar se tem só numero
+        var reg = new RegExp('^\\d+$')
+        if (upperValue == '0') {
+            calc.upperValue.textContent = input;
+        } else { calc.upperValue.textContent += input; }
     }
 }
 
@@ -19,6 +25,6 @@ let buttons = document.querySelectorAll('.btn');
 //map all buttons
 
 for (let i = 0; buttons.length > i; i++) {
-    buttons[i].addEventListener('click',calc.btnPress)
+    buttons[i].addEventListener('click', calc.btnPress)
 }
 
