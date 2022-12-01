@@ -25,6 +25,10 @@ let trembala = new Trem('Trem bala ');
 let trem = new Trem('Trem ');
 let cadilac = new Carro
 
+Carro.prototype.ligar = function () {
+    console.log('O carro ligou'); // Todos os objetos foram alterados pois utilizando o prototype
+    //Estamos fazendo uma referência a classe Veiculo
+}
 
 trem.ligar();
 trembala.ligar();
