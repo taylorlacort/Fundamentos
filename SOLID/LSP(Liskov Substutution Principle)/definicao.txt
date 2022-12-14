@@ -1,0 +1,6 @@
+Este princio parte de um fundamento do exemplo que temos uma classe pai chamada retangulo, e crimos uma classe filha
+derivada desta classe retangulo.
+
+Se copiarmos as alterções feitas na classe filha para a classe pai será possivel a classe pai funcioar?
+
+O princio de substituição de liskov parte da ideia de copiar a classe filha para a classe pai sem que haja erros.

@@ -1,0 +1,2 @@
+Uma entidade de software,tais como classes.módulos, funções etc. Devem sempre estar abertas para extenções, mas fechadas para 
+modificações.

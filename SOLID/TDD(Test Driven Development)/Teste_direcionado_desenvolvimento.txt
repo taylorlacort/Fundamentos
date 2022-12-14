@@ -1,0 +1,2 @@
+Conhecido como teste de unidade você define uma série de testes em um software antes de desenvolver 
+A função para verificar  a funcionalidade daquele software.
