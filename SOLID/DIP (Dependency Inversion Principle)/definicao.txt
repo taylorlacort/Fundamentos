@@ -1,0 +1,3 @@
+Módulos de alto nível não devem depender de módulos de baixo nível. Ambis devem depender de abstrações.
+Dependa de uma abstração e não de uma implemmentação.
+Abstração não deve depender de detalhes.Detalhes devem depender de abstrações

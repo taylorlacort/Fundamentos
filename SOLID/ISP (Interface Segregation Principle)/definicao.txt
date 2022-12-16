@@ -1,0 +1,2 @@
+Clientes não devem ser forçados a depender de metodos que não usam.
+Muitas interfaces especificas são melhores do que uma única interface.
