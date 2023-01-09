@@ -31,3 +31,5 @@ trembala.ligar();
 cadilac.ligar();
 
 console.log(trem.carenagem)
+
+console.log ('teste')
