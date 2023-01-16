@@ -1,2 +1,2 @@
 # Fundamentos
-Projetos iniciaias do meu estudo.
+Projetos iniciaias dos meus estudo.
