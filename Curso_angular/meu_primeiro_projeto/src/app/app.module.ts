@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { TitleComponent } from './title/title.component';
 import { DataBidingComponent } from './data-biding/data-biding.component';
 import { DeretivasEstruturaisComponent } from './deretivas-estruturais/deretivas-estruturais.component';
+import { DiretivasAtributosComponent } from './diretivas-atributos/diretivas-atributos.component';
 
 
 @NgModule({
@@ -14,7 +15,8 @@ import { DeretivasEstruturaisComponent } from './deretivas-estruturais/deretivas
     AppComponent,
     TitleComponent,
     DataBidingComponent,
-    DeretivasEstruturaisComponent
+    DeretivasEstruturaisComponent,
+    DiretivasAtributosComponent
   ],
   imports: [
     BrowserModule,
