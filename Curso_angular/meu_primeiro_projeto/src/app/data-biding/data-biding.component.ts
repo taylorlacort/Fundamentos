@@ -10,7 +10,7 @@ export class DataBidingComponent {
   public nome: string = 'Taylor'
   public idade: number = 24
   public checkoutDisable: boolean = false
-  public imgSrc: string = 'https://www.psu.com/wp/wp-content/uploads/2020/06/horizon-forbidden-west-desktop-and-mobile-wallpapers-released-by-guerrilla.jpg'
+  public imgSrc: string = 'https://w0.peakpx.com/wallpaper/655/215/HD-wallpaper-death-stranding-thumbnail.jpg'
   public imgTitle: string = 'Propety Binding'
 
   public position: { x: number, y: number } = { x: 0, y: 0 }
